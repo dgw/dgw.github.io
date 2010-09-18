@@ -1,0 +1,1 @@
+Contents of the GitHub Pages site corresponding to the repo name. A file named `CNAME` is half of the process to show these contents at another address; the contents of the `CNAME` file determine what domain will be used for redirection to the "real" address.
